@@ -1,0 +1,16 @@
+div.error {
+	color: red;
+	
+} 
+
+input.error {
+	border-color: red;
+}
+
+input.success {
+	border-color: green;
+}
+
+div.success {
+	color: green;
+}
