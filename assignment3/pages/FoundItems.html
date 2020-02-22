@@ -1,0 +1,19 @@
+
+<h3>Found Items:</h3>   
+<div ng-repeat="item in found" class="row">
+	<div class="col-md-3">
+		{{ item.name }}
+	</div>
+	<div class="col-md-1">
+		{{ item.short_name }}
+	</div>
+	<div class="col-md-6">
+		{{ item.description }}
+	</div>
+	<div class="col-md-2">
+		<button class="btn btn-danger" ng-click="onRemove({index: $index});">X</button>
+	</div>
+</div>
+
+<div class="error row" ng-transclude>
+</div>
