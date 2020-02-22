@@ -5,3 +5,4 @@ A repo that has all the assignments from coursera course about AngularJs
 
 * [First assignment](https://sabrinemihni.github.io/coursera-angularJs/assignment1/) 
 * [Second assignment](https://sabrinemihni.github.io/coursera-angularJs/assignment2/)
+* [Third assignment](https://sabrinemihni.github.io/coursera-angularJs/assignment3/)
